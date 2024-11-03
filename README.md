@@ -1,2 +1,2 @@
-# WeatherApp
-A simple weather app which shows real time weather of different cities
+# Minor projects
+Some Minor projects made with help of html,css,JS
